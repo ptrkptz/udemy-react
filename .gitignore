@@ -16,7 +16,10 @@ node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#lock_files
 yarn.lock
+package-lock.json
 
 typings
 jsconfig.json
